@@ -1,0 +1,10 @@
+application/logs/*
+!application/logs/index.html
+!application/logs/.htaccess
+!assets/uploads/index.html
+assets/img/featured_works
+assets/img/portfolio
+assets/img/slider
+/nbproject/private/
+nbproject/project.xml
+nbproject/project.properties
